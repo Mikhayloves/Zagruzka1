@@ -1,0 +1,12 @@
+Директория C:Games/src создана
+Директория C:Games/res создана
+Директория C:Games/savegames создана
+Директория C:Games/temp создана
+Директория C:Games/src/test/ создана
+Директория C:Games/src/main создана
+Директория C:Games/res/drawables/ создана
+Директория C:Games/res/vectors/ создана
+Директория C:Games/reicons создана
+В директории C:Games/src/main/ файл с именем Main.java создан
+В директории C:Games/src/main/ файл с именем Utils.java создан
+В директории C:Games/temp/ файл с именем temp.txt создан
